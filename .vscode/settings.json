@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ratio": "cpp",
+        "future": "cpp",
+        "system_error": "cpp",
+        "regex": "cpp",
+        "cmath": "cpp",
+        "numeric": "cpp",
+        "iosfwd": "cpp"
+    }
+}
